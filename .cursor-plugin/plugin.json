@@ -1,0 +1,22 @@
+{
+  "name": "tenor",
+  "version": "0.1.0",
+  "description": "Import React components into Tenor, refine linked previews in Cursor, and sync versions to the same canvas.",
+  "author": {
+    "name": "Tenor"
+  },
+  "homepage": "https://tenor.design",
+  "repository": "https://github.com/otherplacestudio/tenor-cursor",
+  "license": "MIT",
+  "keywords": [
+    "tenor",
+    "react",
+    "design",
+    "canvas",
+    "components",
+    "mcp"
+  ],
+  "logo": "assets/tenor-mark-graphite.svg",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}

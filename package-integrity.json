@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "environment": "production",
+  "files": {
+    ".cursor-plugin/plugin.json": "0fe516f1ed0d6058b8f3597271c368be10aa530d73e807ebe3cafd3e61fab3c7",
+    "assets/tenor-mark-graphite.svg": "fc55c4aedde4c0421cab5dcf35f24a8c82e2ea0091fa480b2477fe8fbc4b7a9f",
+    "LICENSE": "8557015fcba65a7812f351c58179d08e4f57975a47527b85c10314fa175a93aa",
+    "mcp.json": "ad2c27675616eeacec232880364bd1e7d78e46bb047ef4a21071238f1d0e5363",
+    "README.md": "5fc82c0218f78c278f08176f1e7e644eb18a0604a27c9a85039e19abea9aaf0c",
+    "scripts/browser-build-options.mjs": "7f6d1ef41e9293b63602180228be4c0f30d041157fa49e4eb331a26ecb9473d0",
+    "scripts/build-import.mjs": "7f0958c1f5c3b489ca092afad14c65e9474a74221452ec7ea3a3cbd8f8828d15",
+    "scripts/import-build-policy.mjs": "6d1da5f81bef538684beeb15900790ce5bbc26b39301f70f3d162fcd5f9f2156",
+    "scripts/prepare-import.mjs": "77ea95fee1e312e48b2c0e0dedf440c2edd236bb2dd081be67c601cdd0fdb46c",
+    "scripts/style-policy.mjs": "59550712f59e9aaf845405642e169ea9d8b5e3d6bfc9d782f183448faae67b03",
+    "skills/tenor-component/SKILL.md": "078b2751451253a457aed900f84ccbee9fa02093d864adabb3fa09d90381d234",
+    "skills/tenor-cursor/SKILL.md": "828eae5b6ee5defe6521ad0bbb9a7c9598bff8d74570b991d0d6ff60ea32ddf5"
+  }
+}

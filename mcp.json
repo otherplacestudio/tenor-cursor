@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "tenor": {
+      "url": "https://tenor.design/api/mcp",
+      "auth": {
+        "scopes": [
+          "mcp:tools",
+          "mcp:components:create",
+          "mcp:canvases:manage"
+        ],
+        "CLIENT_ID": "tnr_client_jGLyLx8qpRqCMc1IHNDl_4Duhi90q579CcygrMx2qdI"
+      }
+    }
+  }
+}
